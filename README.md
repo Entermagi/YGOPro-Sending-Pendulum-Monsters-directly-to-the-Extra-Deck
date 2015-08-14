@@ -5,6 +5,6 @@ When an "Abyssive" monster(s) is Special Summoned, you can place 1 "Abyssive" Pe
 
 Using Notepad++
 
-I tried various from cards that return Extra Deck Monsters to the ED but in the code do that via SendtoDeck which, because of the mechanics of those monsters, works. But Pendulum Monsters can be in the Main Deck too and the same principle won't for them.
+I tried various codes from cards that return Extra Deck Monsters ( Spiritual Beasts, Fusion Substitute, Limitover Drive, etc. ) to the ED but in the code they do so with SendtoDeck( or Hand ) which, because of the mechanics of those monsters, works. But Pendulum Monsters can be in the Main Deck too, meaning the same principle won't work for them.
 
-I left it just so you know what I want help with.
+I left it at MovetoExtraDeck just so you know what and where I need help.
